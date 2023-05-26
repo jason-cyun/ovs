@@ -69,6 +69,8 @@ DISTCLEANFILES =
 PYCOV_CLEAN_FILES = build-aux/check-structs,cover
 
 EXTRA_DIST = \
+	build_with_dpdk.sh \
+	Read_Me_Before_Build.md \
 	AUTHORS.rst \
 	CONTRIBUTING.rst \
 	LICENSE \
